@@ -510,6 +510,7 @@ textarea{
     cursor: pointer;
     outline: none;
     transition: 0.6s;
+     z-index: -1;
 }
 .contact .contact-message .btn-send:hover{
     background-color: #F76C6C;
