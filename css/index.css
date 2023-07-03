@@ -530,3 +530,13 @@ textarea{
     font-size: large;
     font-weight: bold;
 }
+
+@media  screen and (max-width: 650px) {
+    .icon-menu {
+    
+     display: block;
+    }
+    .ul-menu{
+        display: none;
+    }
+  }
