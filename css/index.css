@@ -161,6 +161,7 @@ nav{
     display: none;
     font-size: 18px;
     font-weight: bold;
+     z-index: 1;
 }
 .scroll-up:hover{
     opacity: 0.8;
